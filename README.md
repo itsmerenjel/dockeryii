@@ -60,10 +60,6 @@ Password: manager
 Login: user
 Password: user
 ```
-## Donations for further development
-- [Bitcoin] (https://www.coinbase.com/checkouts/2f1c1cb31c395e5aaafa1ba70003552e)
-- [WebMoney] (Z110052695454)
-- Other way: [eugene@terentev.net](mailto:eugene@terentev.net)
 
 ## FEATURES
 - Beautiful and open source dashboard theme for backend [AdminLTE 2](http://almsaeedstudio.com/AdminLTE)
@@ -324,12 +320,6 @@ public function behaviors()
         ];
     }
 ```
-
-## How to contribute?
-You can contribute in any way you want. Any help appreciated, but most of all i need help with docs (^_^)
-
-## Have any questions?
-mail to [eugene@terentev.net](mailto:eugene@terentev.net)
 
 ## READ MORE
 https://github.com/yiisoft/yii2/blob/master/apps/advanced/README.md
