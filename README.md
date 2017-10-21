@@ -1,4 +1,4 @@
-# Yii 2 Starter Kit with Docker
+# Yii 2 Starter Kit
 
 <!-- BADGES/ -->
 
