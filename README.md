@@ -1,4 +1,4 @@
-# Yii 2 Starter Kit
+# Yii 2 Starter Kit with Docker
 
 <!-- BADGES/ -->
 
@@ -8,11 +8,7 @@
 
 This is Yii2 start application template.
 
-It was created and developing as a fast start for building an advanced sites based on Yii2. 
-
-It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
-
-## Before you start
+## Contributions
 Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues). 
 
 ## TABLE OF CONTENTS
