@@ -3,10 +3,6 @@
 <!-- BADGES/ -->
 
 [![Packagist](https://img.shields.io/packagist/v/trntv/yii2-starter-kit.svg)](https://packagist.org/packages/trntv/yii2-starter-kit)
-[![Packagist](https://img.shields.io/packagist/dt/trntv/yii2-starter-kit.svg)](https://packagist.org/packages/trntv/yii2-starter-kit)
-[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X7UFA3F3ALPM8 "Donate once-off to this project using Paypal")
-[![Dependency Status](https://www.versioneye.com/php/trntv:yii2-starter-kit/badge.svg)](https://www.versioneye.com/php/trntv:yii2-starter-kit)
-[![Build Status](https://travis-ci.org/trntv/yii2-starter-kit.svg?branch=master)](https://travis-ci.org/trntv/yii2-starter-kit)
 
 <!-- /BADGES -->
 
@@ -17,10 +13,9 @@ It was created and developing as a fast start for building an advanced sites bas
 It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
 
 ## Before you start
-Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues) or [donations](#donations). 
+Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues). 
 
 ## TABLE OF CONTENTS
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](docs/installation.md)
     - [Manual installation](docs/installation.md#manual-installation)
@@ -35,13 +30,12 @@ Please, consider helping project via [contributions](https://github.com/trntv/yi
 - [Have any questions](#have-any-questions)
 
 ## DEMO
-Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
 
 Frontend:
-http://yii2-starter-kit.terentev.net
+http://yii2-starter-kit.dev
 
 Backend:
-http://backend.yii2-starter-kit.terentev.net
+http://backend.yii2-starter-kit.dev
 
 `administrator` role account
 ```
